@@ -2,4 +2,4 @@ First file
 	first modify
 		next modify only for git
 
-User #1: has changed this file
+User #1: has changed this file..
